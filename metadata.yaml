@@ -1,0 +1,9 @@
+homepage: https://linklyhq.com
+versions:
+  - sha: TO_BE_FILLED_ON_SUBMISSION
+    changeNotes: |-
+      Initial release.
+
+      Loads the Linkly tracker and attributes sales and leads back to the short
+      link that caused them. Picks up GA4 ecommerce purchases from the data
+      layer automatically, so a site already firing those needs no second tag.
