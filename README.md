@@ -91,4 +91,4 @@ bundled tests from the template editor before opening a pull request.
 
 ## Licence
 
-MIT — see [LICENSE](LICENSE).
+Apache 2.0 — see [LICENSE](LICENSE).
