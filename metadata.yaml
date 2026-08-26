@@ -1,6 +1,6 @@
 homepage: https://linklyhq.com
 versions:
-  - sha: 5b70fd9b964552416a1f1806f4b7d90f91cc7a91
+  - sha: 65275da11472e14e115d2eb5874b7ba70f6cc315
     changeNotes: |-
       Initial release.
 
