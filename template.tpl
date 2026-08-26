@@ -19,7 +19,7 @@ ___INFO___
     "id": "brand_dummy",
     "displayName": "Linkly"
   },
-  "description": "Attribute sales and leads back to the Linkly short link that caused them. Add the Initialise tag on Initialisation - All Pages; if your site already fires GA4 ecommerce events, that is the whole setup.",
+  "description": "Attribute sales and leads back to the Linkly short link that caused them. Add the Initialise tag on Initialisation - All Pages. Sites already firing GA4 ecommerce events need no other tag.",
   "containerContexts": ["WEB"]
 }
 
